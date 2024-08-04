@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ajitesh 
-- 👀 I’m interested in learning new technical skills 
+- 👋 Hi, I’m @ajitesh  
 - 📫 How to reach me ... you can text me on linkedin(i mentioned my profile)
-- 👻 I watch anime ( anime is not cartoon😠)
+
 
 
 <!---

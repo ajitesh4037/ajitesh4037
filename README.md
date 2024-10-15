@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ajitesh  
-- 📫 How to reach me ... you can text me on linkedin(i mentioned my profile)
+- 👋 Hi, I’m @Ajitesh
+- 📫 I build stuff that i like 
 
 
 
